@@ -110,6 +110,16 @@ See `Samples/sample-report.html` for a complete HTML dashboard.
 
 **Findings, not scores.** Instead of computing an opaque risk score, the module attaches concrete findings to each account: `PASSWORD OLD`, `IN PRIVILEGED GROUP`, `KERBEROASTABLE`, `NO OWNER`. These are actionable and auditable. You can filter, sort, and report on them directly.
 
+## Feedback & Contributions
+
+This tool was built to solve real admin pain points. If you have ideas for improvement, find a bug, or want to suggest a feature:
+
+- **Open an issue** on this repo — [Issues](../../issues)
+- Feature requests, bug reports, and general feedback are all welcome
+- Pull requests are appreciated if you want to contribute directly
+
+If you find this useful, check out my other tools at [larro1991.github.io](https://larro1991.github.io)
+
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
